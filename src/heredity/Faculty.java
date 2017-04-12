@@ -1,6 +1,11 @@
 
 package heredity;
     
+    //DANIEL EDUARDO PERAZA RIVERA
+    //UNIVERSIDAD NACIONAL DE COLOMBIA
+
+
+
     //Como se puede observar, la clase "Faculty" hereda de "Employee", la cual hereda de 
     //la clase "Person". Al crear un objeto tipo "Faculty", se recurre a la clase de la que
     //inmediatamente hereda, es decir Employee. Esta a su vez recurre a la clase que de la
